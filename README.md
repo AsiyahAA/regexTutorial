@@ -1,8 +1,8 @@
 # regexTutorial
 ## Description
-### Project purpose was to create a regex tutorial for an specific regex and upload to gist for users to view the tutorial. 
+### Project purpose was to create a regex tutorial for a specific regex and upload to gist for users to view the tutorial.
 ## User
-### User should be able to see run the program from the command-line by running mysql and then running node. An inquirer prompt will show asking the User to choose from an array of choices regarding the company database. Each choice will show the result in a table in the console. In addition, the User can also add departments, add roles, add employees, and update an existing employee and the new added entries will appear in the tables. 
+### User should be able to view the tutorial on gitHub repository as well as on gitHub gist and can see a walk-through on how to use a regex for matching an email. 
 ## Technologies
 ### GitHub was used to clone a new repository onto a computer and Visual Studio Code was used to write the tutorial along with GitHub gist and GitBash Terminal was used to git add/commit/push edits made from local repository onto GitHub to update respository.
 ## Setup
