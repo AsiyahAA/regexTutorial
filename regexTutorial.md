@@ -1,4 +1,4 @@
-# Regex Tutorial for Email
+# Regex Tutorial for Matching an Email
 
 ### Regex or regular expressions is a tool for processing text that allows a user to search through text for a specific pattern and find matches to the specified string. Regex comes in handy for combing through long lines of text for specific information or to keep information private and encrypted. Regex can be used to set search parameters for all kinds of patterns like URL's, emails, and phone-numbers along with many others. In this Regex tutorial, users will be given a walk-through on how to use regex for matching an email and setting up the correct syntax for users to be able to search for emails. 
 
