@@ -12,7 +12,7 @@
 ### GitBash Terminal is once again needed to updload edits made in your local repository onto GitHub-using the same commands of git add ./git commit -m/git push in order to update GitHub.
 ## Screenshot
 ### <img width="1128" alt="2022-08-14 (1)" src="https://user-images.githubusercontent.com/104933717/184571238-bf08d263-bf24-4ca2-9dbf-caf336cf3409.png">
-### <img width="1128" alt="2022-08-14 (1)" src="https://user-images.githubusercontent.com/104933717/184571259-70de409e-9825-46fc-b1b5-462e51f6d4fb.png"> 
+### <img width="1128" alt="2022-08-14" src="https://user-images.githubusercontent.com/104933717/184572337-d1c50a91-aa50-4bc7-b0b4-fbeee3238735.png">
 ## Status 
 ### regexTutorial is functioning correctly with links working and appropriate information for each section displayed.  
 ## Credits/Sources 
